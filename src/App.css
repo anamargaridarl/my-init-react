@@ -1,0 +1,21 @@
+*{
+  box-sizing: border-box;
+  margin:0;
+  padding:0;
+}
+
+body{
+  font-family:  Arial, Helvetica, sans-serif;
+  line-height: 1.4;
+}
+
+:root{
+  --brown:#7D2F00;
+  --blue: #8BC2D6;
+  --blue-2:#558C9F;
+  --blue-3:#C2F9FF;
+}
+
+a{
+  text-decoration: none;
+}
